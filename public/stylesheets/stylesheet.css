@@ -1,0 +1,125 @@
+body {
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	margin-top: 0px;
+	background-image: url(/images/bodybg.jpg);
+}
+.footer {
+	float: left;
+	height: 84px;
+	width: 1024px;
+}
+.footerline {
+	float: left;
+	height: 21px;
+	width: 1024px;
+}
+
+.mainpage {
+	background-image: url(/images/mainpage.jpg);
+	float: left;
+	height: 283px;
+	width: 544px;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+.mainpglogo {
+	float: left;
+	height: 107px;
+	width: 157px;
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+
+.cont {
+	height: 600px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(/images/contbg.jpg);
+	background-repeat: repeat-x;
+}
+.footerbuttons {
+	float: left;
+	height: 63px;
+	width: 1024px;
+	margin-left: 57px;
+}
+.footerbut1 {
+	float: left;
+	height: 63px;
+	width: 182px;
+}
+
+.rightbar {
+	float: right;
+	height: 333px;
+	width: 243px;
+}
+
+.header {
+	float: left;
+	height: 176px;
+	width: 1024px;
+}
+.flashlogo {
+	float: left;
+	height: 176px;
+	width: 204px;
+}
+.rightheader {
+	float: right;
+	height: 176px;
+	width: 316px;
+	padding-left: 200px;
+	padding-right: 304px;
+}
+.mainpgbutn {
+	float: left;
+	height: 44px;
+	width: 151px;
+	margin-top: 6px;
+	margin-right: 180px;
+	margin-bottom: 6px;
+	margin-left: 180px;
+}
+
+.middlecont {
+	float: left;
+	height: 333px;
+	width: 1024px;
+}
+.leftbar {
+	float: left;
+	height: 333px;
+	width: 184px;
+}
+.leftbarbutn1 {
+	height: 44px;
+	width: 156px;
+	margin-top: 7px;
+	margin-right: 9px;
+	margin-bottom: 7px;
+	margin-left: 18px;
+}
+.leftbarflashbanner {
+	float: left;
+	height: 174px;
+	width: 186px;
+	background-image: url(/images/page1_17.png);
+}
+.rightbarflash1 {
+	background-image: url(/images/page1_08.png);
+	float: right;
+	height: 159px;
+	width: 228px;
+	margin-right: 15px;
+}
+.rightbarflash2 {
+	background-image: url(/images/page1_19.png);
+	float: right;
+	height: 161px;
+	width: 228px;
+	margin-right: 15px;
+}
